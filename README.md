@@ -63,20 +63,6 @@ Example predictions made by the model:
 
 ---
 
-## Live WebCam Output
-
-### Class A
-![A](Final_Model/media/A.png)
-
-### Class F
-![F](Final_Model/media/F.png)
-
-### Class L
-![L](Final_Model/media/L.png)
-
-### Class P
-![P](Final_Model/media/P.png)
-
 ---
 ## Results
 - Achieved high accuracy in classifying sign language gestures
